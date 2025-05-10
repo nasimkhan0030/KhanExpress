@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709852561893",
+    "project_id": "khanexpress-b5736",
+    "storage_bucket": "khanexpress-b5736.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709852561893:android:2536a3a8d8853b39ef6f0c",
+        "android_client_info": {
+          "package_name": "com.example.khanexpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU8i_4kWjd_fUJgJq7dQ5CWd22Tn2fgDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
